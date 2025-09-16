@@ -97,5 +97,3 @@ AI-RAG-Assistant-Using-LangChain/
 - Expose model and splitter settings in the UI
 - Show source snippets used to answer
 
-## License
-MIT (or your preferred license)
